@@ -2437,19 +2437,6 @@ export const rules = {
           max: 1,
           points: 1000,
         },
-        {
-          ids: ["bull-centaur-taur'ruk"],
-          min: 0,
-          max: 1,
-          requiresType: "special",
-          requires: ["bull-centaur-renders"],
-          perUnit: true,
-        },
-        {
-          ids: ["black-orc-bigboss", "black-orc-warboss"],
-          min: 0,
-          max: 1,
-        },
       ],
     },
     core: {
@@ -2499,6 +2486,19 @@ export const rules = {
           requiresType: "characters",
           requires: ["hobgoblin-khan"],
           perUnit: true,
+        },
+        {
+          ids: ["bull-centaur-taur'ruk"],
+          min: 0,
+          max: 1,
+          requiresType: "special",
+          requires: ["bull-centaur-renders"],
+          perUnit: true,
+        },
+        {
+          ids: ["black-orc-bigboss", "black-orc-warboss"],
+          min: 0,
+          max: 1,
         },
         {
           ids: ["dreadquake-mortar", "hellcannon"],

@@ -6011,7 +6011,7 @@
       "name_fr": "Flasque Démoniaque",
       "name_it": "Daemon Flask",
       "points": 50,
-      "type": "arcane-item",
+      "type": "enchanted-item",
       "onePerArmy": true,
       "name": "daemon flask"
     },
