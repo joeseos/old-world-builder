@@ -831,10 +831,10 @@
         "chaos-dwarfs": {
           "category": "rare",
           "notes": {
-            "name_en": "0-1 per unit of Bull Centaur Renders taken",
+            "name_en": "0-1 per unit of Bull Centaur Renders",
             "name_cn": "0-1每队半人牛撕裂者",
-            "name_de": "0-1 per unit of Bull Centaur Renders taken",
-            "name_es": "0-1 per unit of Bull Centaur Renders taken",
+            "name_de": "0-1 per unit of Bull Centaur Renders",
+            "name_es": "0-1 per unit of Bull Centaur Renders",
             "name_fr": "0-1 par unité de Hacheurs Centaures-Taureaux"
           }
         },
@@ -2918,10 +2918,10 @@
         "name_fr": "Coup en Traître, Esquiveur, Cavalerie Rapide, Tir & Fuite, Conscrits, Ordre Dispersé, Tirailleurs, Rapide"
       },
       "notes": {
-        "name_en": "0-1 unit per Hobgoblin Khan taken",
+        "name_en": "0-1 unit per Hobgoblin Khan",
         "name_cn": "每有一个大地精可汗0-1队",
-        "name_de": "0-1 unit per Hobgoblin Khan taken",
-        "name_es": "0-1 unit per Hobgoblin Khan taken",
+        "name_de": "0-1 unit per Hobgoblin Khan",
+        "name_es": "0-1 unit per Hobgoblin Khan",
         "name_fr": "0-1 unité par Khan Hobgobelin"
       }
     },
